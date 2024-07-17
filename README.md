@@ -3,7 +3,7 @@
   <head>
     <title>test</title>
       <body>
-<a href=".html>the link is here</a>
+<a href="html>the link is here</a>
   </body>
   </head>
 </html>
