@@ -1,7 +1,7 @@
 # fizull836.github.io
 <html>
   <head>
-    <title>test<M/title>
+    <title>test</title>
       <body>
 <a href=".html>the link is here</a>
   </body>
